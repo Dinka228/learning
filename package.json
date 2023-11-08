@@ -1,0 +1,27 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinka228/learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinka228/learning/issues"
+  },
+  "homepage": "https://github.com/Dinka228/learning#readme",
+  "dependencies": {
+    "next": "^14.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
